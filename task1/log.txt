@@ -1,0 +1,11 @@
+commit 84e45950f937a6c3d5d48c93c60b13402de8030b
+Author: Danila Perepecha <breaktheice714@gmail.com>
+Date:   Tue Feb 23 13:05:25 2021 +0300
+
+    add status.txt
+
+commit c8326b069b2822afa65d4e5ede2ae81ed3241c1a
+Author: Danila Perepecha <breaktheice714@gmail.com>
+Date:   Tue Feb 23 13:01:28 2021 +0300
+
+    add .gitignore
